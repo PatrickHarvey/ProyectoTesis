@@ -48,3 +48,4 @@ A continuación, se listan las funciones del algoritmo utilizado para este proye
 Imágenes:
 * diagrama_de_flujo.png: Se enumeran los procesos mencionados anteriormente
 * diagrama_b loques_2.png: Se grafica los procesos que realiza el algoritmo
+* ejemplo_programa.png: Esquema general de la propuesta a realizar
