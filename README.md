@@ -5,7 +5,9 @@ Generación de melodia midi y partitura a partir de señal de audio monofónica
 YouTube: https://youtu.be/0TXa5fJMxsQ
 
 Universidad Nacional San Agustín
+
 Ciencia de la Computación
+
 Alumno: Norman Patrick Harvey Arce
 
 
