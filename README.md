@@ -42,3 +42,9 @@ A continuación, se listan las funciones del algoritmo utilizado para este proye
 - ABC2MIDI
 - Generando Archivo pdf
 - Segundo Archivo de Salida
+
+Imágenes:
+* diagrama_de_flujo.png
+      Se enumeran los procesos mencionados anteriormente
+* diagrama_b loques_2
+      Se grafica los procesos que realiza el algoritmo
