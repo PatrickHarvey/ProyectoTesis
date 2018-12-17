@@ -8,7 +8,7 @@ Universidad Nacional San Agustín
 
 Ciencia de la Computación
 
-Alumno: Norman Patrick Harvey Arce
+- Alumno: Norman Patrick Harvey Arce
 
 
 Objetivo General:
